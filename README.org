@@ -1,0 +1,10 @@
+* Atcay
+
+  My first OCaml project! It's cat, but with an extra pig latin translation
+  layer.
+
+** Build & Run
+   #+begin_src bash
+   ./build.sh
+   ./atcay  # usage: atlay [FILE]...
+   #+end_src
